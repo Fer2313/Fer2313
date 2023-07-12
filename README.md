@@ -9,7 +9,7 @@
 
 - 👯 Estuve Colaborando en [petBridge](https://github.com/maxihorta/petBridge)
 
-- 👨‍💻 Todos mis proyectos estarán [aqui...](Soon...)
+- 👨‍💻 Todos mis proyectos estan [aqui...](https://portfolio-six-gold-75.vercel.app/)
 
 - 💬 Si me preguntan sobre **React, Next, Tailwind...**
 
